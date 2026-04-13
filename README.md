@@ -10,7 +10,6 @@ Currently in my second year, on track for First Class Honours.
 
 - Deepening my understanding of ML system design and large-scale model training
 - Building projects in agentic AI and LLM applications
-- Sharpening fundamentals through [deep-ml.com](https://www.deep-ml.com)
 
 ---
 
