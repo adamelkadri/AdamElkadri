@@ -1,8 +1,6 @@
 # Hi, I'm Adam El-Kadri 👋
 
-CS & Artificial Intelligence student at Royal Holloway, University of London — building toward an MSc in AI/ML. I'm interested in agentic LLM systems, applied machine learning, and LLM-based applications that solve real problems.
-
-Currently in my second year, on track for First Class Honours.
+2nd Year **Computer Science & Artificial Intelligence** student at **Royal Holloway, University of London**, on track for First Class Honours and heading toward an MSc in AI/ML. Interested in agentic LLM systems, applied machine learning, and LLM-powered tools that solve real problems.
 
 ---
 
